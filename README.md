@@ -12,3 +12,4 @@
 
 - 지인분의 평가는 [Pull Request](https://github.com/shinequasar/REVIEWME/pulls)로 받고 있습니다.
 - 궁금하신 점이나 질문은 [Issues](https://github.com/shinequasar/REVIEWME/issues)나 shinequasar@naver.com으 로 남겨주세요!
+ 
