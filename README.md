@@ -10,5 +10,5 @@
 ---
 ✨ 정소연은 어떤 동료/친구/사람인가요? 자유롭게 PR을 남겨주세요 :)
 
-- 지인분의 평가는 Pull Request로 받고 있습니다.
-- 궁금하신 점이나 질문은 이슈로 남겨주세요!
+- 지인분의 평가는 [Pull Request](https://github.com/shinequasar/REVIEWME/pulls)로 받고 있습니다.
+- 궁금하신 점이나 질문은 [Issues](https://github.com/shinequasar/REVIEWME/issues)로 남겨주세요!
